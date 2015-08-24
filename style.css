@@ -1,0 +1,42 @@
+<style>
+p {
+	text-align: center;
+	font-family: arial;
+	background-color: #F1F1F1;
+}
+
+img {
+	border-style: 5px solid black;
+}
+body {
+	background-color: #F1F1F1;
+}
+
+h1 {
+	color:#BF0000;
+	text-align: center;
+	font-family: arial;
+	font-size: 10px
+	background-color: #F1F1F1;
+}
+h2 {
+	font-family: arial;
+	text-align: center;
+	background-color: #F1F1F1;
+}
+h3 {
+	font-weight: 400;
+    font-style: normal;
+    line-height: normal;
+    font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif;
+	text-align: center;
+	background-color: #F1F1F1;
+}
+
+h4 {
+	font-family: arial;
+	text-align: center;
+	background-color: #F1F1F1;
+}
+
+</style>
